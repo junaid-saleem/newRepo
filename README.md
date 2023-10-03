@@ -1,5 +1,5 @@
 # newRepo
 
-new repo in junaid-saleem github account
+new repository in junaid-saleem github account
 
 updating from junimp and creating a pull request
